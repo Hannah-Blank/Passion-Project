@@ -1,6 +1,13 @@
-##19. March 2026
-Today I setup most of the project:
-- installed Git
-- created folder
-- created subfolder
-- created an respositry on Github
+## 19. March 2026
+My name is Hannah Blank, I am 15 years and 96 days old, and I live in Germany where I attend a Gymnasium — the highest form of secondary school here. Today I am starting my passion project: the F1 Strategy Predictor.
+I chose this project because Formula 1 is not just something I watch for entertainment. I genuinely want to understand what the strategists inside the teams are thinking, and more specifically, whether Lando Norris could have won the 2025 championship by more than two points if McLaren had made different pit stop decisions at key moments. That question is what I want this project to eventually help me answer.
+My background is a mix of things that I think will help. I have been an F1 fan since 2024 and interested in Computer Science since around 2022, with some breaks in between. In 2024, I completed an online Web Developer course provided by Starcode, and in 2025 I attended a Python course, also through Starcode. Not everything from those courses has stayed with me perfectly, but that is not a problem — I now have Computer Science as a regular school subject where Python is actively taught, which means I will be reinforcing and building on those foundations consistently throughout the year.
+Today I completed all of Phase 0. I installed Python, VS Code, Git, and the Python extension, created my project folder with all five subfolders, set up a GitHub repository, and linked my local folder to GitHub with my first commit. The workshop is ready.
+Next session, I want to sign up for Kaggle and bookmark the three key documentation pages — fastf1, scikit-learn, and Streamlit — so that they are ready when I need them in later phases.
+
+One small note: having Python taught at school alongside this project is actually a significant advantage that is worth emphasising when you eventually write your personal statement. It means you are not just learning Python in isolation — you are applying classroom knowledge to a real self-directed project simultaneously, which is exactly the kind of independent thinking Oxford looks for. Keep noting in your journal when something you learned in CS class directly helped you here, because those connections will make for very compelling reading later.
+
+## 20. March 2026
+Today I had a Computer Science lesson at school. The topic was branching — programmes that make decisions using if, elif, and else — which is something I already know reasonably well, so the lesson itself didn't challenge me much. I wrote the programme in about ten minutes. The harder part, unexpectedly, was the Strukturogram, which is a theoretical diagram that maps out the logic of a programme visually before you write any code. That took me around 45 minutes. I find the practical side of coding genuinely enjoyable, but the theoretical and diagrammatic work feels slow and frustrating by comparison.
+Most of my classmates don't seem to share my enthusiasm for the subject, which I think is partly down to our teacher's strict style — though she has always been kind to me personally. Ms. Borchmann actually knows me from a maths camp where she taught me previously, so there is already a sense of mutual familiarity and trust, which helps.
+On the project side, Phase 0 is fully complete as of yesterday. But rather than waiting until July to begin the Python learning phase as the guide suggests, I've decided I want to go deeper into Python now. I already know the surface-level basics — variables, conditionals, print statements — but I want to genuinely understand the language, not just scratch its surface. Starting early feels right.
