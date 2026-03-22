@@ -78,7 +78,7 @@ I am keeping a running journal of this project in [`journal/journal.md`](journal
 
 ## 📬 Contact
 
-Built by **[Your Name]** · [GitHub Profile](https://github.com/YOUR_USERNAME)
+Built by **Hannah Blank** · [GitHub Profile](https://github.com/Hannah-Blank)
 
 ---
 
