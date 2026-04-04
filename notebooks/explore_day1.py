@@ -18,7 +18,7 @@ lando_clean = lando.dropna(subset=['LapTime'])
 lap_numbers = lando_clean['LapNumber']
 lap_times = lando_clean['LapTime'].dt.total_seconds()
 
-plt.figure(figsize=(12, 5))
+plt.figure(figsize=(12, 50))
 plt.plot(lap_numbers, lap_times, color='#e8001d', linewidth=2, marker='o', markersize=3)
 plt.title("Lando Norris — Lap Times, Monaco 2024")
 plt.xlabel("Lap")
