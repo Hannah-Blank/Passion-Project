@@ -19,3 +19,21 @@ Today I built a Word Frequency Counter in Python from scratch — the most compl
 The return statement finally clicked today. The key insight was that variables inside a function stay inside — you have to return the result and catch it outside with something like result = count_words(sentence). That was confusing yesterday, but makes sense now.
 I also got tripped up by small things: forgetting to save .split() into a variable, writing index + 1 instead of index += 1, and accidentally comparing words instead of counts. All fixable once I saw what was wrong.
 The program ended up using everything I learned this week — strings, f-strings, dictionaries, a while loop, and two functions with return. Seeing it all connect in one working program was satisfying.
+
+## 10. April 2026
+It has been a few weeks since my last entry. This was intentional — I decided 
+to step back from the project itself and focus on building a proper Python 
+foundation first, rather than pushing forward with code I don't fully understand.
+
+My plan for this learning phase: a twelve-hour YouTube course combined with 
+"Head First Python" by Paul Barry. I want to reach the point where I can look 
+at my fastf1 data and know exactly what I'm doing with it, not just copy 
+patterns I half-understand.
+
+I won't be documenting every Python exercise in here since this journal is for 
+the project itself. But I want to note for the record: the quiet periods in this 
+journal do not mean inactivity. My GitHub profile shows the real picture.
+
+The question I keep coming back to: could Lando have won the 2025 championship 
+by a larger margin with different pit stop decisions? That question is still what 
+drives this. I want to be good enough to actually answer it properly.
